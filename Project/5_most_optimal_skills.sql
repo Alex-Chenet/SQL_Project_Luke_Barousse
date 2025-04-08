@@ -19,7 +19,7 @@ FROM
 WHERE
   job_postings_fact.job_title_short = 'Data Analyst'
 	AND job_postings_fact.salary_year_avg IS NOT NULL
-    AND job_postings_fact.job_work_from_home = True
+  AND job_postings_fact.job_work_from_home = True
 GROUP BY
   skills_dim.skill_id
 HAVING
