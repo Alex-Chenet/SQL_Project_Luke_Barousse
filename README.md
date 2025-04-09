@@ -94,7 +94,7 @@ Here's a breakdown of the most demanded skills for the top 10 paying Data Analys
 - **Tableau** is the third most common skill, appearing in 6.
 - Other skills include Excel, R, Snowflake, and Pandas show lesser varying degrees of demand.
 
-![Top Paying Skills](assets\2_top_paying_roles_skills.png)
+![Top Paying Skills](assets/2_top_paying_roles_skills.png)
 
 ### 3. In-Demand Skills for Data Analysts
 
